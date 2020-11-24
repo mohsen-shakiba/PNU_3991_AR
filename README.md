@@ -8,9 +8,7 @@
   <li><a href="https://github.com/mohsen-shakiba" target="_blank">C language Certificate</a></li>
   </ul>
 <br>
-<p>
-  دروس کارشناسی
-  </p>
+# دروس کارشناسی
   <a href="https://github.com/mohsen-shakiba" target="_blank">
 1115157_02 نظریه زبان ها و ماشین
 </a>
