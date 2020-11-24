@@ -7,3 +7,14 @@
   <li><a href="https://github.com/mohsen-shakiba" target="_blank">SOP</a></li>
   <li><a href="https://github.com/mohsen-shakiba" target="_blank">C language Certificate</a></li>
   </ul>
+<br>
+<p>
+  دروس کارشناسی
+  </p>
+  <a href="https://github.com/mohsen-shakiba" target="_blank">
+1115157_02 نظریه زبان ها و ماشین
+</a>
+<br>
+  <a href="https://github.com/mohsen-shakiba" target="_blank">
+1322010_01 روش پژوهش و ارائه
+</a>
